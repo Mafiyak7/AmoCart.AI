@@ -1,0 +1,9 @@
+gunicorn
+pillow
+requests
+torch
+yolov5
+clip-by-openai
+opencv-python
+flask
+flask-cors
